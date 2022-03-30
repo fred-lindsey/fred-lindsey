@@ -9,6 +9,9 @@
 
 - My pronouns: He/him
 
+#### You can connect with me through [LinkedIn](https://www.linkedin.com/in/fred-lindsey92/)
+
+
 
 
 
