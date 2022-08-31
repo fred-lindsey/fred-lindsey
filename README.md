@@ -1,5 +1,5 @@
 # Fred Lindsey
-## I'm a data science scientist, specializing in creating ways to communciate data visually
+## I'm a data science scientist, specializing in creating ways to communicate data visually.
 
 - I'm currently working on: visualizations in Tableau and automating data flows with SQL.
 
