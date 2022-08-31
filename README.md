@@ -1,11 +1,7 @@
 # Fred Lindsey
-## I'm a data science student, excited to learn the ins/outs of core concepts and tools, including Python, SQL, and using Git. :hatching_chick:
+## I'm a data science scientist, specializing in creating ways to communciate data visually
 
-- I'm currently working on: the fundamentals 
-
-- I'm currently learning: MySQL and Python basics 
-
-- I'm interested in collaborating on: 
+- I'm currently working on: visualizations in Tableau and automating data flows with SQL.
 
 - My pronouns: He/him
 
